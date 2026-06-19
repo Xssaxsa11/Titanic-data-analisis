@@ -1,2 +1,5 @@
-# Titanic-data-analisis
-Analisis base on tiitanic passengers data
+Проект посвящен анализу выживаемости пассажиров Титаника на основе трех гипотез: влияние пола/возраста, класса каюты и размера семьи.
+
+## Как запустить
+1. Установите зависимости: `pip install -r requirements.txt`
+2. Запустите скрипт: `python titanic.py`
